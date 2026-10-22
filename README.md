@@ -1,21 +1,19 @@
 <div align="center">
   <img src="assets/profile-banner.png"
-       alt="Filip Duda — Developer"
+       alt="Filip Duda — developer building local-first AI tools and desktop apps with Python, FastAPI, SQLite, JavaScript, and Electron"
        width="100%">
 </div>
 
+# 👋 Hi, I'm Filip
 
-# 👋 Hello there, I'mmmmm Filip
+### Developer • AI tooling • local-first software
 
-### Developer • AI • Linux • Automation
-
-I build software, AI-powered tools, and developer workflows focused on practical problems.
+I build local-first tools with inspectable agent workflows and practical desktop apps.
 
 ## 🧠 What I'm building
 
-- 🚀 **Helm** — a local-first workspace for supervised AI-agent work.
-- 🤖 **AI agents** — automation and agentic workflows.
-- 🐧 **Linux tools** — custom utilities and workflows.
+- 🚀 **[Helm](https://github.com/menamefilip/helm)** — a local-first workspace for supervised AI-agent work.
+- 🎧 **[Music Buddy](https://github.com/menamefilip/music-player)** — an Electron desktop audio-file visualizer.
 
 ## 🚀 Featured project
 
@@ -30,13 +28,25 @@ Helm brings projects, chats, staged runs, and reviewable artifacts into one loca
 
 [![Helm tests](https://github.com/menamefilip/helm/actions/workflows/ci.yml/badge.svg)](https://github.com/menamefilip/helm/actions/workflows/ci.yml)
 
-![Helm workspace preview](https://raw.githubusercontent.com/menamefilip/helm/main/assets/helm-demo.png)
+![Illustrative Helm UI mockup — synthetic design, not a live screenshot](https://raw.githubusercontent.com/menamefilip/helm/main/assets/helm-demo.png)
 
 **Built with:** Python · FastAPI · SQLite · JavaScript · pytest · GitHub Actions
 
+## 🎧 Other project
+
+### [Music Buddy](https://github.com/menamefilip/music-player)
+
+A small Electron desktop widget that plays selected local audio files and visualizes their frequency spectrum.
+
+[![Music Buddy checks](https://github.com/menamefilip/music-player/actions/workflows/ci.yml/badge.svg)](https://github.com/menamefilip/music-player/actions/workflows/ci.yml)
+
+![Music Buddy UI preview in its empty state, with no audio loaded](https://raw.githubusercontent.com/menamefilip/music-player/master/assets/music-buddy-ui.png)
+
+**Built with:** JavaScript · Electron · Web Audio API
+
 ## 🛠️ Tech
 
-Python · TypeScript · JavaScript · Linux · Git · AI
+Python · FastAPI · SQLite · JavaScript · Electron · Git
 
 ## 📫 Contact
 
