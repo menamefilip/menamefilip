@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="assets/profile-banner.png"
+       alt="Filip Duda — Developer"
+       width="100%">
+</div>
+
+
 # 👋 Hi, I'm Filip
 
 ### Developer • AI • Linux • Automation
