@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hello there I'm Filip
 
-<!--
-**menamefilip/menamefilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer • AI • Linux • Automation
 
-Here are some ideas to get you started:
+I build software, AI-powered tools and developer workflows
+that solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I'm building
+
+🚀 **Helm** — AI-powered personal developer system  
+🤖 **AI Agents** — automation and agentic workflows  
+🐧 **Linux** — custom tools and workflows for my environment
+
+---
+
+## 🛠️ Tech
+
+[ Python ] [ TypeScript ] [ JavaScript ] [ Linux ] [ Git ] [ AI ]
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Helm
+AI-powered developer & productivity system.
+
+
+
+---
+
+## 📊 GitHub
+
+[ GitHub profile ]
+
+---
+
+### 📫 Contact
+
+Open to interesting projects, collaboration and opportunities.
