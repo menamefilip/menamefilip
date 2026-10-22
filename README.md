@@ -5,7 +5,7 @@
 </div>
 
 
-# 👋 Hi, I'm Filip
+# 👋 Hello there, I'mmmmm Filip
 
 ### Developer • AI • Linux • Automation
 
