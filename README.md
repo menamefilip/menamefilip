@@ -40,7 +40,7 @@ A small Electron desktop widget that plays selected local audio files and visual
 
 [![Music Buddy checks](https://github.com/menamefilip/music-player/actions/workflows/ci.yml/badge.svg)](https://github.com/menamefilip/music-player/actions/workflows/ci.yml)
 
-![Music Buddy UI preview in its empty state, with no audio loaded](https://raw.githubusercontent.com/menamefilip/music-player/master/assets/music-buddy-ui.png)
+![Music Buddy UI preview in its empty state, with no audio loaded](assets/music-buddy-ui.png)
 
 **Built with:** JavaScript · Electron · Web Audio API
 
